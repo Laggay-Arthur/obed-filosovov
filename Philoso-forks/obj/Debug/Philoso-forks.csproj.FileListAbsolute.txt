@@ -1,0 +1,15 @@
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\bin\Debug\Philoso-forks.exe.config
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\bin\Debug\Philoso-forks.exe
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\bin\Debug\Philoso-forks.pdb
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks.csprojAssemblyReference.cache
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\MainWindow.g.cs
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\App.g.cs
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks_MarkupCompile.cache
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks_MarkupCompile.lref
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\MainWindow.baml
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks.g.resources
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso_forks.Properties.Resources.resources
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks.csproj.GenerateResource.cache
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks.csproj.CoreCompileInputs.cache
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks.exe
+C:\Users\Medoo\Documents\GitHub\Philoso-forks\Philoso-forks\obj\Debug\Philoso-forks.pdb
